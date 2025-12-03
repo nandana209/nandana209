@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandana209" alt="nandana209" /></a> </p>
 
-- 🔭 I’m currently working on a project **AI cricket coach**
 
 - 📫 How to reach me **nandanabiju209@gmail.com**
 
