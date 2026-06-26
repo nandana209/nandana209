@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **nandanabiju209@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u8iOGBIPBzOR3P7hnEpoDthFmkqm_89w/view?usp=drive_link](https://drive.google.com/file/d/1u8iOGBIPBzOR3P7hnEpoDthFmkqm_89w/view?usp=drive_link)
-
+- 📄 Know about my experiences: https://drive.google.com/file/d/1HH8tQs4FimXap9ROGiv9-bCMX9lnMGUw/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nandanabiju9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nandanabiju9" height="30" width="40" /></a>
